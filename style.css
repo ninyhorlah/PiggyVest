@@ -3,6 +3,10 @@
     margin: 0;
     
 }
+
+.logo {
+    text-align: center;    
+}
 form {
     background-image: url('./img/bg-1.png'),url('./img/bg2.png'),url('./img/bg3.png'),url('./img/bg4.png');
     background-repeat: no-repeat,no-repeat,no-repeat,no-repeat;
@@ -47,19 +51,3 @@ form a {
 form a:hover {
     color: gray;
 }
-
-/* @media (max-width: 700px) {
-
-    fieldset{
-        margin: 40px 10px 40px 10px;
-    } 
-
-    form a{
-        margin-left: 100px;
-    }
-
-     .logo {
-        padding-left: 100px;
-    }
-}
- */
