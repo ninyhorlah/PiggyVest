@@ -44,8 +44,9 @@ label {
 form a {
     text-decoration: none;
     color: #fff;
-    margin-left: 530px;
+    margin: auto;
     font-size: smaller;
+    
 }
 
 form a:hover {
