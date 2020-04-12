@@ -12,8 +12,10 @@ form {
     background-repeat: no-repeat,no-repeat,no-repeat,no-repeat;
     background-size: 10%, 10%,10%,10%;
     background-color: #062863;
+    padding: 0;
+    margin: 0;
     background-position: left top -2em, right  -2em, left bottom -2em, right bottom -2em;
-    padding: 50px;
+    
 }
 fieldset {
     margin: auto;
